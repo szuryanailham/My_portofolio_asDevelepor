@@ -1,30 +1,30 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Reactfolio by szuryanailham",
+		name: "Ilham Suryana",
+		email: "szuryanailham090102@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		twitter: "#",
+		github: "https://github.com/szuryanailham",
+		linkedin: "https://www.linkedin.com/in/ilham-suryana-03318b265/",
+		instagram: "https://www.instagram.com/szuryanilham/",
+		stackoverflow: "#",
+		facebook: "#",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "UI/UX Design and Fullstack Developer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Saya adalah seorang pengembang perangkat lunak yang dengan antusiasme tinggi terhadap desain antarmuka pengguna (UI/UX). Saya menikmati setiap tahap dalam proses menciptakan pengalaman pengguna yang tidak hanya menarik, tetapi juga fungsional. Dengan latar belakang dalam pengembangan full-stack, saya menggabungkan keahlian teknis penuh tumpukan dengan pemahaman mendalam terhadap desain, memberikan dukungan yang solid untuk mewujudkan setiap visi desain yang saya bawa. Saya percaya bahwa kombinasi antara kecintaan pada desain dan keahlian teknis yang komprehensif dapat menciptakan produk perangkat lunak yang tidak hanya memukau secara visual, tetapi juga memberikan pengalaman pengguna yang luar biasa.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Ilham Suryana. I live in Indonesia, I am ready to design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Saya adalah seorang mahasiswa Teknologi Informasi di Universitas Ahmad Dahlan yang memiliki minat khusus dalam dunia desain antarmuka pengguna (UI/UX) dan desain secara umum. Sejak awal perjalanan saya di dunia teknologi, saya merasa terpukau oleh kekuatan desain untuk memperkaya pengalaman pengguna. Keinginan saya untuk memahami lebih dalam UI/UX dan desain merupakan salah satu pendorong utama saya dalam menjalani studi di bidang ini.\n\nSebagai mahasiswa IT, saya percaya bahwa pemahaman yang mendalam tentang desain memberikan dimensi tambahan pada pengetahuan teknis saya. Saya ingin terus memperdalam pengalaman dan wawasan saya dalam UI/UX, serta mengaplikasikan pengetahuan tersebut dalam proyek-proyek yang dapat memberikan dampak positif.\n\nKeberanian untuk terus belajar dan semangat untuk mengeksplorasi dunia desain adalah aspek-aspek yang saya bawa dalam perjalanan pendidikan saya. Saya yakin bahwa dengan menggabungkan kegemaran saya terhadap UI/UX dengan disiplin ilmu Teknologi Informasi, saya dapat memberikan kontribusi yang berarti dalam menghadapi tantangan di dunia teknologi yang terus berkembang.",
 	},
 
 	articles: {
@@ -35,46 +35,46 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Ecommrce by Vanilla JS",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"E-commerce dengan Vanilla JS merupakan website sederhana , dengan bantuan dari ekstensi css seperti SASS ,",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/szuryanailham/E-commerce-shop",
 		},
 
 		{
-			title: "Project 2",
+			title: "React app : BisokopQU",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"aplikasi bioskop yang dibuat mengunakn React js dengan fiture fetch api dan pencarian film.",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/szuryanailham/Repository-reactjs-BioskopQu",
 		},
 
 		{
-			title: "Project 3",
+			title: "Gallerya Photo website",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/szuryanailham/Gallerya_PhotoSearch",
 		},
 
 		{
-			title: "Project 4",
+			title: "Collaboration project:Behospital",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"collabration project website rumah sakit dengan menggunakan tehnologi Inertia JS dan saya selaku Front end Developer",
+			logo: "https://laravel.com/img/logomark.min.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/szuryanailham/Behopsital_website",
 		},
 
 		{
-			title: "Project 5",
+			title: "Collaboration:Cahaya Waskitha website",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				" website rental mobil yang dibuat dengan tehnologi inertia js dan saya sebagai team manager  dan fullstuck",
+			logo: "https://laravel.com/img/logomark.min.svg",
 			linkText: "View Project",
 			link: "https://github.com",
 		},

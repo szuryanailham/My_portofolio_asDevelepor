@@ -40,25 +40,27 @@ const Contact = () => {
 
 					<div className="contact-container">
 						<div className="title contact-title">
-							Let's Get in Touch: Ways to Connect with Me
+							"Mari Terhubung: Cara untuk Berkomunikasi dengan
+							Saya"
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Thank you for your interest in getting in touch with
-							me. I welcome your feedback, questions, and
-							suggestions. If you have a specific question or
-							comment, please feel free to email me directly at
-							&nbsp;{" "}
+							"Terima kasih atas ketertarikan Anda untuk
+							berkomunikasi dengan saya. Saya menyambut masukan,
+							pertanyaan, dan saran Anda. Jika Anda memiliki
+							pertanyaan atau komentar khusus, silakan kirimkan
+							email langsung ke{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
-							. I make an effort to respond to all messages within
-							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can use the contact form
-							on my website to get in touch. Simply fill out the
-							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
-							social media, you can find me on{" "}
+							. Saya berusaha untuk merespons semua pesan dalam
+							waktu 24 jam, meskipun mungkin membutuhkan lebih
+							lama pada periode sibuk. Sebagai alternatif, Anda
+							dapat menggunakan formulir kontak di situs web saya
+							untuk berkomunikasi. Cukup isi bidang yang
+							diperlukan, dan saya akan segera merespons.
+							Terakhir, jika Anda lebih suka terhubung melalui
+							media sosial, Anda bisa menemukan saya di{" "}
 							<a
 								href={INFO.socials.instagram}
 								target="_blank"
@@ -66,10 +68,11 @@ const Contact = () => {
 							>
 								{INFO.socials.instagram}
 							</a>
-							. I post regular updates and engage with my
-							followers there, so don't hesitate to reach out.
-							Thanks again for your interest, and I look forward
-							to hearing from you!
+							. Saya sering memperbarui dan berinteraksi dengan
+							pengikut saya di sana, jadi jangan ragu untuk
+							menghubungi saya. Sekali lagi, terima kasih atas
+							ketertarikan Anda, dan saya menantikan kabar dari
+							Anda!"
 						</div>
 					</div>
 
