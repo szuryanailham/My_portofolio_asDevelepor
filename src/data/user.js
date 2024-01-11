@@ -40,7 +40,7 @@ const INFO = {
 				"E-commerce dengan Vanilla JS merupakan website sederhana , dengan bantuan dari ekstensi css seperti SASS ,",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/szuryanailham/E-commerce-shop",
+			link: "https://ecommerce-sederhana.netlify.app",
 		},
 
 		{
@@ -49,7 +49,7 @@ const INFO = {
 				"aplikasi bioskop yang dibuat mengunakn React js dengan fiture fetch api dan pencarian film.",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
 			linkText: "View Project",
-			link: "https://github.com/szuryanailham/Repository-reactjs-BioskopQu",
+			link: "https://bioskopqu-szuryanailham.netlify.app/",
 		},
 
 		{
@@ -58,7 +58,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
 			linkText: "View Project",
-			link: "https://github.com/szuryanailham/Gallerya_PhotoSearch",
+			link: "https://gallerya-szuryanailham.netlify.app/",
 		},
 
 		{
